@@ -70,13 +70,13 @@ h2{
 
 .container{
     width: 97.5%;
-    height: 420px;
+    /*height: 420px;*/
     background-color: #fff;
     margin-top: 20px;
    
     padding: 10px;
     display: flex;
-    flex-flow: row wrap;
+    /*flex-flow: row wrap;*/
         
 }
 
@@ -95,6 +95,7 @@ h2{
     padding: 10px 0;
     color: white;
     text-align: center;
+    cursor: pointer;
 }
 
 
