@@ -1,1 +1,1 @@
-# bosic-portfolio
+# bssic-portfolio
